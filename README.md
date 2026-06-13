@@ -49,6 +49,7 @@ Personal repository for all exercises, projects, and notes completed throughout 
 ```
 📦 Angela_Yu_Bootcamp/
  ┣ 📁 2.1 Heading Element
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/2.1%20Heading%20Element/
  ┣ 📁 2.2 Paragraph Element
  ┣ 📁 2.3 Void Elements
  ┣ 📁 2.4 Movie Ranking Project
