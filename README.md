@@ -47,11 +47,23 @@ Personal repository for all exercises, projects, and notes completed throughout 
 ## 📂 Repository Structure
  
 ```
-📦 web-dev-bootcamp-angela-yu/
- ┣ 📁 
+📦 Angela_Yu_Bootcamp/
+ ┣ 📁 2.1 Heading Element
+ ┣ 📁 2.2 Paragraph Element
+ ┣ 📁 2.3 Void Elements
+ ┣ 📁 2.4 Movie Ranking Project
+ ┣ 📁 3.0 List Elements
+ ┣ 📁 3.1 Nesting and Indentation
+ ┣ 📁 3.2 Anchor Elements
+ ┣ 📁 3.3 Image Elements
+ ┣ 📁 3.4 Birthday Invite Project
+ ┣ 📁 4.0 File Paths
+ ┣ 📁 4.1 Webpages
+ ┣ 📁 4.3 HTML Portfolio Project
+
 ```
  
-Each folder may contain exercises, mini-projects, and any personal notes or extras added beyond the course material.
+Each folder contains exercises and mini-projects. Please refer to this link: https://github.com/MickSabogal/obsidian-programacion and review my study progress.
  
 ---
  
