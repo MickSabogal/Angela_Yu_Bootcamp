@@ -53,7 +53,9 @@ Personal repository for all exercises, projects, and notes completed throughout 
  ┣ 📁 2.2 Paragraph Element
    ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/2.2%20Paragraph%20Element/
  ┣ 📁 2.3 Void Elements
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/2.3%20Void%20Elements/
  ┣ 📁 2.4 Movie Ranking Project
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/2.4%20Movie%20Ranking%20Project/
  ┣ 📁 3.0 List Elements
  ┣ 📁 3.1 Nesting and Indentation
  ┣ 📁 3.2 Anchor Elements
