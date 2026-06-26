@@ -57,14 +57,21 @@ Personal repository for all exercises, projects, and notes completed throughout 
  ┣ 📁 2.4 Movie Ranking Project
    ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/2.4%20Movie%20Ranking%20Project/
  ┣ 📁 3.0 List Elements
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/3.0%20List%20Elements/
  ┣ 📁 3.1 Nesting and Indentation
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/3.1%20Nesting%20and%20Indentation
  ┣ 📁 3.2 Anchor Elements
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/3.2%20Anchor%20Elements
  ┣ 📁 3.3 Image Elements
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/3.3%20Image%20Elements
  ┣ 📁 3.4 Birthday Invite Project
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/3.4%20Birthday%20Invite%20Project
  ┣ 📁 4.0 File Paths
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/4.0%20File%20Paths/Folder0/
  ┣ 📁 4.1 Webpages
+   ┣ https://micksabogal.github.io/Angela_Yu_Bootcamp/4.1%20Webpages/
  ┣ 📁 4.3 HTML Portfolio Project
-
+   ┣
 ```
  
 Each folder contains exercises and mini-projects. Please refer to this link: https://github.com/MickSabogal/obsidian-programacion and review my study progress.
